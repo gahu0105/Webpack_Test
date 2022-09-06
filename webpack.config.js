@@ -6,7 +6,7 @@ const port = process.env.PORT || 3000;
 
 module.exports = {
 
-    //개발 환경
+    //개발 환경1
     mode: 'development', // 1
 
     // 어플리케이션 시작 경로
