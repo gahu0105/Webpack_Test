@@ -4,11 +4,6 @@ import React from 'react';
 import './App.css';
 import {useState} from 'react';
 
-// const App = () =>(
-//     <div>
-//         Hello Webpack!!!
-//     </div>
-// );
 //사용자 정의 태그 => 컴포넌트
 // 반드시 대문자로 시작해야 한다.
 function Header(props){
